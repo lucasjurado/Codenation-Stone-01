@@ -144,4 +144,4 @@ def tariff(start, end):
     return total_tax
 
 
-print(classify_by_phone_number(records))
+classify_by_phone_number(records)
